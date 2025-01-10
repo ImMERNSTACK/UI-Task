@@ -45,7 +45,7 @@ function Footer() {
       </div>
      </div>
      <div>
-      <h3 class="text-xl font-bold mb-4">
+      <h3 class="text-xl font-bold mb-4 chakra-petch-bold">
        Our Services
       </h3>
       <ul>
@@ -67,7 +67,7 @@ function Footer() {
       </ul>
      </div>
      <div>
-      <h3 class="text-xl font-bold mb-4">
+      <h3 class="text-xl font-bold mb-4 chakra-petch-bold">
        For Customers
       </h3>
       <ul>
@@ -89,7 +89,7 @@ function Footer() {
       </ul>
      </div>
      <div>
-      <h3 class="text-xl font-bold mb-4">
+      <h3 class="text-xl font-bold mb-4 chakra-petch-bold">
        Opening Hour
       </h3>
       <ul>

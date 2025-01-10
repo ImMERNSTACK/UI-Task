@@ -48,7 +48,7 @@ function HeaderMain() {
                 <div className="relative group" key={index}>
                   <a
                     href="#"
-                    className="text-blue-900 font-medium hover:text-teal-500"
+                    className="text-blue-900 font-medium chakra-petch-bold hover:text-teal-500"
                   >
                     {item}{" "}
                     <span className="transform rotate-180 group-hover:rotate-0 inline-block">
