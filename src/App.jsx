@@ -8,8 +8,8 @@ function App() {
     <div className="font-roboto">
       
         <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="/services" element={<Services/>} />
+          <Route path="/home" element={<Home/>} />
+          <Route path="/" element={<Services/>} />
         </Routes>
       
     </div>
